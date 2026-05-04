@@ -45,4 +45,4 @@ This tool is for educational purposes and experimentation only.
 
 ## 🖼 Preview
 
-![image](image.jpg)
+![image](image.png)
